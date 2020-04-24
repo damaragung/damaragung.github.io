@@ -1,1 +1,1 @@
-![](images/ohno.gif)
+:ocean:
