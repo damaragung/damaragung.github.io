@@ -9,7 +9,7 @@ Welcome to my GitHub Page! I'm passionate about coding and building innovative p
 
 ## About Me
 
-I'm a Software Engineer based in San Francisco. With a background in Full-Stack Development, I thrive on turning ideas into scalable and user-friendly applications. My goal is to contribute to cutting-edge technologies and make a positive impact.
+I'm a Software Engineer based in Jakarta. With a background in Full-Stack Development, I thrive on turning ideas into scalable and user-friendly applications. My goal is to contribute to cutting-edge technologies and make a positive impact.
 
 ## 🚀 Projects
 
